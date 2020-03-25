@@ -66,3 +66,50 @@ homework_sheet <- sheets_read(ss,sheet=1)
 ```
 
 
+```{r}
+# 10位學生的主系
+majors10_char <- c('經濟學系','社會學系','社會學系','經濟學系','經濟學系','社會學系','經濟學系','經濟學系','經濟學系','社會學系')
+
+typeof(majors10_char)
+class(majors10_char)
+
+```
+
+```{r}
+majors10_factor <- factor(majors10_char)
+# 或
+majors10_factor <- factor(
+  c('經濟學系','社會學系','社會學系','經濟學系','經濟學系','社會學系','經濟學系','經濟學系','經濟學系','社會學系')
+)
+
+typeof(majors10_factor)
+```
+
+```{r}
+levels(majors10_factor)
+```
+```{r}
+stringInteger <- c(1,2,13)
+class(stringInteger) # 無法進行數值運算
+stringInteger+2
+```
+```{r}
+trueInteger <- as.integer(stringInteger)
+class(trueInteger) # 可以進行數值運算
+typeof(trueInteger)
+```
+
+
+```{r}
+studentId <- c(410773002, 410773015)
+studentId <- as.character(studentId)
+typeof(studentId)
+```
+```{r}
+##library(lubridate)
+studentTime <- c(ymd_hms("2020-03-04T08:15:28Z"),ymd_hms("2020-03-11 16:11:43",tz=Aisa/Taipei),ymd_hms("2020-03-11 16:11:43",tz=Aisa/Taipei))
+
+```
+
+
+
