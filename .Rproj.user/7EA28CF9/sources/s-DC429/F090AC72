@@ -5,13 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "653345708",
+    "hash" : "0",
     "id" : "F090AC72",
-    "lastKnownWriteTime" : 1586520253,
-    "last_content_update" : 1586520253,
-    "path" : "D:/D槽下載/homework1 (1).Rmd",
+    "lastKnownWriteTime" : 1586878264,
+    "last_content_update" : 1586878264564,
+    "path" : "D:/D槽下載/homework1_410673095.Rmd",
     "project_path" : null,
     "properties" : {
+        "cursorPosition" : "204,20",
+        "last_setup_crc32" : "",
+        "scrollLine" : "167"
     },
     "read_only" : false,
     "read_only_alternatives" : [

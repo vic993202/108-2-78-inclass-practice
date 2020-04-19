@@ -1,0 +1,4 @@
+"0","two_times <- c(ymd_hms(taiwan_time,tz = ""Asia/Taipei""),mdy_hms(oslo_time,tz = ""Europe/Oslo""))"
+"2"," 1 failed to parse."
+"2","All formats failed to parse. No formats found."
+"0","# two_times"
