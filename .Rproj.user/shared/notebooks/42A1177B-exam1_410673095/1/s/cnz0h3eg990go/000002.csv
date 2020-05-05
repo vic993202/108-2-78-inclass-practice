@@ -1,0 +1,39 @@
+"0","install.packages(""rvest"")"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","Installing package into ¡¥C:/Users/vic99/Documents/R/win-library/3.6¡¦
+(as ¡¥lib¡¦ is unspecified)
+"
+"2","also installing the dependency ¡¥selectr¡¦
+
+"
+"2","å˜—è©¦ URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/selectr_0.4-2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 494432 bytes (482 KB)
+"
+"2","downloaded 482 KB
+
+"
+"2","å˜—è©¦ URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/rvest_0.3.5.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 664205 bytes (648 KB)
+"
+"2","downloaded 648 KB
+
+"
+"1","package â€˜selectrâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜rvestâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\vic99\AppData\Local\Temp\RtmpiI5S6Y\downloaded_packages"
+"1",""
+"1","
+"
