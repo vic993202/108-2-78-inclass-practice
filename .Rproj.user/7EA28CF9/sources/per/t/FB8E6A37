@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588866501825.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FB8E6A37",
+    "lastKnownWriteTime" : 2099728649808,
+    "last_content_update" : 1588866501825,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "d255272bb05c40828e44ba2b20a1b7d7",
+        "name" : "students10",
+        "title" : "students10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

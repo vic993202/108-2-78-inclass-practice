@@ -1,0 +1,16 @@
+"0",""
+"0","A <- stringr::str_detect(students10$`志願`,""北大經濟"")"
+"2","Warning message:
+"
+"2","In grepl(""|||"", what, fixed = TRUE) :"
+"2"," 輸入的字串 1 不適用於此語言環境
+"
+"0","ntpu_namelist<- students10$`姓名`[A]"
+"0","ntpu_namelist"
+"1","[1]"
+"1"," ""陳依祈"""
+"1"," ""林溺""  "
+"1"," ""鄧蜂""  "
+"1"," ""蔡玖""  "
+"1","
+"
